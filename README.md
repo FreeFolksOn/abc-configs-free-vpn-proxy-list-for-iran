@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="کانال تلگرام @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="پیام مستقیم در تلگرام" src="https://img.shields.io/badge/Telegram-%D8%A8%D9%87%20%D9%85%D8%A7%20%D9%BE%DB%8C%D8%A7%D9%85%20%D8%AF%D9%87%DB%8C%D8%AF-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="آخرین به‌روزرسانی" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%DB%8C%D9%86%20%D8%A8%D9%87%E2%80%8C%D8%B1%D9%88%D8%B2%D8%B1%D8%B3%D8%A7%D9%86%DB%8C&message=2026-08-03%2023%3A57%20UTC&color=blue">
+  <img alt="آخرین به‌روزرسانی" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%DB%8C%D9%86%20%D8%A8%D9%87%E2%80%8C%D8%B1%D9%88%D8%B2%D8%B1%D8%B3%D8%A7%D9%86%DB%8C&message=2026-08-04%2000%3A07%20UTC&color=blue">
   <img alt="به‌روزرسانی خودکار هر 10 دقیقه" src="https://img.shields.io/static/v1?label=%D8%A8%D9%87%E2%80%8C%D8%B1%D9%88%D8%B2%D8%B1%D8%B3%D8%A7%D9%86%DB%8C%20%D8%AE%D9%88%D8%AF%DA%A9%D8%A7%D8%B1&message=%D9%87%D8%B1%2010%20%D8%AF%D9%82%DB%8C%D9%82%D9%87&color=brightgreen">
   <img alt="مجوز: Unlicense" src="https://img.shields.io/static/v1?label=%D9%85%D8%AC%D9%88%D8%B2&message=Unlicense&color=lightgrey">
 </p>
@@ -52,15 +52,15 @@
 
 ## 30 کانفیگ آخر
 
-**آخرین به‌روزرسانی:** 2026-08-03 23:57 UTC (هر 10 دقیقه به‌روز می‌شود)
+**آخرین به‌روزرسانی:** 2026-08-04 00:07 UTC (هر 10 دقیقه به‌روز می‌شود)
 
 <table>
   <thead>
     <tr><th>#</th><th>زمان</th><th>تأخیر</th><th>نرخ موفقیت</th><th>آخرین فعالیت</th><th>برچسب</th><th>کانفیگ</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>47 دقیقه پیش</td><td>35 ms</td><td>100.0%</td><td>47 دقیقه پیش</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808#Финляндия🇫🇮</code></td></tr>
-    <tr><td>02</td><td>1 ساعت پیش</td><td>259 ms</td><td>100.0%</td><td>1 ساعت پیش</td><td>#ss</td><td><code>ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#Япония🇯🇵</code></td></tr>
+    <tr><td>01</td><td>57 دقیقه پیش</td><td>35 ms</td><td>100.0%</td><td>57 دقیقه پیش</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808#Финляндия🇫🇮</code></td></tr>
+    <tr><td>02</td><td>2 ساعت پیش</td><td>259 ms</td><td>100.0%</td><td>2 ساعت پیش</td><td>#ss</td><td><code>ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#Япония🇯🇵</code></td></tr>
     <tr><td>03</td><td>2 ساعت پیش</td><td>144 ms</td><td>100.0%</td><td>2 ساعت پیش</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#США🇺🇸</code></td></tr>
     <tr><td>04</td><td>3 ساعت پیش</td><td>26 ms</td><td>100.0%</td><td>3 ساعت پیش</td><td>#trojan</td><td><code>trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&amp;security=tls&amp;insecure=0&amp;host=tjplay.lxd…</code></td></tr>
     <tr><td>05</td><td>3 ساعت پیش</td><td>68 ms</td><td>100.0%</td><td>3 ساعت پیش</td><td>#ss</td><td><code>ss://eb78e1f0-d921-4ca9-a889-261fcc5a0547@qq.utiltools.ru:443?security=reality&amp;encryption=none&amp;pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&amp;host=%2F%3FBIA_TELEGRAM%40ShadowProxy66&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=qq.utiltools.ru#Channel%20%3A%20%40Daily_Configs%20</code></td></tr>
@@ -88,7 +88,7 @@
     <tr><td>27</td><td>4 ساعت پیش</td><td>7 ms</td><td>100.0%</td><td>4 ساعت پیش</td><td>#trojan</td><td><code>trojan://humanity@104.16.174.121:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%40vpnbaz%20%E2%98%82%EF%B8%8F</code></td></tr>
     <tr><td>28</td><td>4 ساعت پیش</td><td>24 ms</td><td>100.0%</td><td>4 ساعت پیش</td><td>#ss</td><td><code>ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@it1.levikogjgfdd.ir:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40vpnbaz%20%F0%9F%8C%8A</code></td></tr>
     <tr><td>29</td><td>4 ساعت پیش</td><td>26 ms</td><td>100.0%</td><td>4 ساعت پیش</td><td>#ss</td><td><code>ss://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdp&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=learn00.evany.de5.net&amp;type=ws&amp;allowInsecure=0&amp;sni=learn00.evany.de5.net#%40vpnbaz%20%F0%9F%8D%AD</code></td></tr>
-    <tr><td>30</td><td>4 ساعت پیش</td><td>21 ms</td><td>100.0%</td><td>4 ساعت پیش</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>30</td><td>5 ساعت پیش</td><td>21 ms</td><td>100.0%</td><td>5 ساعت پیش</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
   </tbody>
 </table>
 
