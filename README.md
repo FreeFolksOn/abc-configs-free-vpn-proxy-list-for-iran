@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="کانال تلگرام @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="پیام مستقیم در تلگرام" src="https://img.shields.io/badge/Telegram-%D8%A8%D9%87%20%D9%85%D8%A7%20%D9%BE%DB%8C%D8%A7%D9%85%20%D8%AF%D9%87%DB%8C%D8%AF-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="آخرین به‌روزرسانی" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%DB%8C%D9%86%20%D8%A8%D9%87%E2%80%8C%D8%B1%D9%88%D8%B2%D8%B1%D8%B3%D8%A7%D9%86%DB%8C&message=2026-08-06%2007%3A07%20UTC&color=blue">
+  <img alt="آخرین به‌روزرسانی" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%DB%8C%D9%86%20%D8%A8%D9%87%E2%80%8C%D8%B1%D9%88%D8%B2%D8%B1%D8%B3%D8%A7%D9%86%DB%8C&message=2026-08-06%2007%3A17%20UTC&color=blue">
   <img alt="به‌روزرسانی خودکار هر 10 دقیقه" src="https://img.shields.io/static/v1?label=%D8%A8%D9%87%E2%80%8C%D8%B1%D9%88%D8%B2%D8%B1%D8%B3%D8%A7%D9%86%DB%8C%20%D8%AE%D9%88%D8%AF%DA%A9%D8%A7%D8%B1&message=%D9%87%D8%B1%2010%20%D8%AF%D9%82%DB%8C%D9%82%D9%87&color=brightgreen">
   <img alt="مجوز: Unlicense" src="https://img.shields.io/static/v1?label=%D9%85%D8%AC%D9%88%D8%B2&message=Unlicense&color=lightgrey">
 </p>
@@ -52,21 +52,21 @@
 
 ## 30 کانفیگ آخر
 
-**آخرین به‌روزرسانی:** 2026-08-06 07:07 UTC (هر 10 دقیقه به‌روز می‌شود)
+**آخرین به‌روزرسانی:** 2026-08-06 07:17 UTC (هر 10 دقیقه به‌روز می‌شود)
 
 <table>
   <thead>
     <tr><th>#</th><th>زمان</th><th>تأخیر</th><th>نرخ موفقیت</th><th>آخرین فعالیت</th><th>برچسب</th><th>کانفیگ</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>6 دقیقه پیش</td><td>197 ms</td><td>100.0%</td><td>6 دقیقه پیش</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@136.248.127.32:59319#Бразилия🇧🇷</code></td></tr>
-    <tr><td>02</td><td>23 دقیقه پیش</td><td>8 ms</td><td>100.0%</td><td>22 دقیقه پیش</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@18.159.168.212:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)🇩🇪t.me/PrivateVPNs</code></td></tr>
-    <tr><td>03</td><td>23 دقیقه پیش</td><td>8 ms</td><td>100.0%</td><td>22 دقیقه پیش</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.159.168.212:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)🇩🇪t.me/PrivateVPNs</code></td></tr>
-    <tr><td>04</td><td>42 دقیقه پیش</td><td>7 ms</td><td>100.0%</td><td>42 دقیقه پیش</td><td>#trojan</td><td><code>trojan://humanity@104.18.8.83:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%3E%3E%40v2rayng_fast%3A%3AFR</code></td></tr>
-    <tr><td>05</td><td>42 دقیقه پیش</td><td>7 ms</td><td>100.0%</td><td>42 دقیقه پیش</td><td>#trojan</td><td><code>trojan://humanity@104.18.32.47:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%3E%3E%40v2rayng_fast%3A%3AFR</code></td></tr>
-    <tr><td>06</td><td>42 دقیقه پیش</td><td>7 ms</td><td>100.0%</td><td>42 دقیقه پیش</td><td>#ss</td><td><code>ss://82a3c394-55b7-4780-93a0-5f45c0e89625@104.16.106.213:8880?&amp;security=none&amp;type=ws&amp;headerType=&amp;host=square-brook-e650.353-3ac.workers.dev&amp;path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%3E%3E%40v2rayng_fast%3A%3AUS</code></td></tr>
-    <tr><td>07</td><td>42 دقیقه پیش</td><td>7 ms</td><td>100.0%</td><td>42 دقیقه پیش</td><td>#vless</td><td><code>vless://82a3c394-55b7-4780-93a0-5f45c0e89625@104.16.106.213:8880?&amp;security=none&amp;type=ws&amp;headerType=&amp;host=square-brook-e650.353-3ac.workers.dev&amp;path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%3E%3E%40v2rayng_fast%3A%3AUS</code></td></tr>
-    <tr><td>08</td><td>59 دقیقه پیش</td><td>18 ms</td><td>100.0%</td><td>59 دقیقه پیش</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>01</td><td>16 دقیقه پیش</td><td>197 ms</td><td>100.0%</td><td>16 دقیقه پیش</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@136.248.127.32:59319#Бразилия🇧🇷</code></td></tr>
+    <tr><td>02</td><td>33 دقیقه پیش</td><td>8 ms</td><td>100.0%</td><td>32 دقیقه پیش</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@18.159.168.212:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)🇩🇪t.me/PrivateVPNs</code></td></tr>
+    <tr><td>03</td><td>33 دقیقه پیش</td><td>8 ms</td><td>100.0%</td><td>32 دقیقه پیش</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.159.168.212:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)🇩🇪t.me/PrivateVPNs</code></td></tr>
+    <tr><td>04</td><td>52 دقیقه پیش</td><td>7 ms</td><td>100.0%</td><td>52 دقیقه پیش</td><td>#trojan</td><td><code>trojan://humanity@104.18.8.83:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%3E%3E%40v2rayng_fast%3A%3AFR</code></td></tr>
+    <tr><td>05</td><td>52 دقیقه پیش</td><td>7 ms</td><td>100.0%</td><td>52 دقیقه پیش</td><td>#trojan</td><td><code>trojan://humanity@104.18.32.47:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%3E%3E%40v2rayng_fast%3A%3AFR</code></td></tr>
+    <tr><td>06</td><td>52 دقیقه پیش</td><td>7 ms</td><td>100.0%</td><td>52 دقیقه پیش</td><td>#ss</td><td><code>ss://82a3c394-55b7-4780-93a0-5f45c0e89625@104.16.106.213:8880?&amp;security=none&amp;type=ws&amp;headerType=&amp;host=square-brook-e650.353-3ac.workers.dev&amp;path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%3E%3E%40v2rayng_fast%3A%3AUS</code></td></tr>
+    <tr><td>07</td><td>52 دقیقه پیش</td><td>7 ms</td><td>100.0%</td><td>52 دقیقه پیش</td><td>#vless</td><td><code>vless://82a3c394-55b7-4780-93a0-5f45c0e89625@104.16.106.213:8880?&amp;security=none&amp;type=ws&amp;headerType=&amp;host=square-brook-e650.353-3ac.workers.dev&amp;path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%3E%3E%40v2rayng_fast%3A%3AUS</code></td></tr>
+    <tr><td>08</td><td>1 ساعت پیش</td><td>18 ms</td><td>100.0%</td><td>1 ساعت پیش</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#Нидерланды🇳🇱</code></td></tr>
     <tr><td>09</td><td>1 ساعت پیش</td><td>نامشخص</td><td>نامشخص</td><td>نامشخص</td><td>#ss</td><td><code>ss://eyJhZGQiOiIyMTYuMTA2LjE4NS4xNDEiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOm51bGwsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5hbWUiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMgNjciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjIyMzI0LCJzY3kiOm51bGwsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6bnVsbCwidGxzIjoiIiwidHlwZSI6bnVsbCwidiI6bnVsbCwicHMiOiI+PkB2MnJheV9jb25maWdzX3Bvb2w6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUyJ9</code></td></tr>
     <tr><td>10</td><td>1 ساعت پیش</td><td>41 ms</td><td>100.0%</td><td>1 ساعت پیش</td><td>#ss</td><td><code>ss://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?path=/v1&amp;security=none&amp;encryption=none&amp;host=rzd.ru&amp;type=ws#%3E%3E%40v2ray_configs_pool%3A%3AXX</code></td></tr>
     <tr><td>11</td><td>1 ساعت پیش</td><td>127 ms</td><td>100.0%</td><td>1 ساعت پیش</td><td>#ss</td><td><code>ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%3E%3E%40v2ray_configs_pool%3A%3AUS</code></td></tr>
